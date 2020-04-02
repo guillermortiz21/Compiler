@@ -143,7 +143,7 @@ void SemanticAnalyzer::validateOperator(int index){
         if(this->fileContents[index+1] == '&'){
             keyWord = "&&";
         }else{
-            this->error = this->error + "\nError: & sin doble &&;
+            this->error = this->error + "\nError: & sin doble &&";
         }
     }
     if(myChar == '|'){
