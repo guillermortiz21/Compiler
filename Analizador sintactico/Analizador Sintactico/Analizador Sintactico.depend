@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1583102923 source:c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador sintactico\analizador sintactico\main.cpp
+	<iostream>
+	<fstream>
+	"SintaxisAnalyzer.h"
+
+1583113845 c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador sintactico\analizador sintactico\sintaxisanalyzer.h
+	<iostream>
+	<vector>
+	"LexicalAnalyzer.h"
+
+1583115413 source:c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador sintactico\analizador sintactico\sintaxisanalyzer.cpp
+	<iostream>
+	"SintaxisAnalyzer.h"
+	<string>
+	<cstring>
+	<vector>
+
+1583108201 source:c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador sintactico\analizador sintactico\lexicalanalyzer.cpp
+	<regex>
+	"LexicalAnalyzer.h"
+
+1583108123 c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador sintactico\analizador sintactico\lexicalanalyzer.h
+	<iostream>
+
