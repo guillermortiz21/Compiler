@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1585787963 source:d:\bibliotecas\documentos\cucei\materias\octavo semestre\seminario traductores ii\compiler\analizador semantico\analizador semantico\lexicalanalyzer.cpp
+	<regex>
+	"LexicalAnalyzer.h"
+
+1585787963 d:\bibliotecas\documentos\cucei\materias\octavo semestre\seminario traductores ii\compiler\analizador semantico\analizador semantico\lexicalanalyzer.h
+	<iostream>
+
+1585796178 source:d:\bibliotecas\documentos\cucei\materias\octavo semestre\seminario traductores ii\compiler\analizador semantico\analizador semantico\main.cpp
+	<iostream>
+	<fstream>
+	"SintaxisAnalyzer.h"
+	"SemanticAnalyzer.h"
+
+1585790121 d:\bibliotecas\documentos\cucei\materias\octavo semestre\seminario traductores ii\compiler\analizador semantico\analizador semantico\sintaxisanalyzer.h
+	<iostream>
+	<vector>
+	"LexicalAnalyzer.h"
+
+1585795735 source:d:\bibliotecas\documentos\cucei\materias\octavo semestre\seminario traductores ii\compiler\analizador semantico\analizador semantico\sintaxisanalyzer.cpp
+	<iostream>
+	"SintaxisAnalyzer.h"
+	<string>
+	<cstring>
+	<vector>
+
+1585839365 d:\bibliotecas\documentos\cucei\materias\octavo semestre\seminario traductores ii\compiler\analizador semantico\analizador semantico\semanticanalyzer.h
+	<iostream>
+	<vector>
+
+1585842025 source:d:\bibliotecas\documentos\cucei\materias\octavo semestre\seminario traductores ii\compiler\analizador semantico\analizador semantico\semanticanalyzer.cpp
+	<iostream>
+	"SemanticAnalyzer.h"
+

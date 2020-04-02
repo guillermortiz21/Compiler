@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1579686430 source:c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador lexico\analizadolexico\main.cpp
+	<iostream>
+	<fstream>
+	"LexicalAnalyzer.h"
+
+1579682990 source:c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador lexico\analizadolexico\analizadorlexico.cpp
+	<iostream>
+	"analizadorLexico.h"
+
+1579682990 c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador lexico\analizadolexico\analizadorlexico.cpp
+	<iostream>
+	"analizadorLexico.h"
+
+1579682977 c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador lexico\analizadolexico\analizadorlexico.h
+	<iostream>
+
+1579842628 source:c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador lexico\analizadolexico\lexicalanalyzer.cpp
+	<regex>
+	"LexicalAnalyzer.h"
+
+1579842937 c:\users\laptop super sensual\documents\cucei\materias\octavo semestre\seminario de traductores ii\practicas\analizador lexico\analizadolexico\lexicalanalyzer.h
+	<iostream>
+

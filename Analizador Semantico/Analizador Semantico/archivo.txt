@@ -1,0 +1,19 @@
+int main(){
+	int x, y, t;
+	int zapato;
+	int x, y;
+	int coco, t, zapato, zapato;
+	x = 5;
+	y = 3;
+	t = 0;
+	if(x == !y){
+		x = 1;
+		y = t;
+		t = t + 1;
+	}else{
+		x=x+1;
+		y = t - 5;
+		t = x;
+	}
+	return 0;
+}
